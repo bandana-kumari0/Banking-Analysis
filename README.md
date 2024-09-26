@@ -1,6 +1,6 @@
 # Banking-Analysis
 
-##[View Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiNTRkYzQyMTUtOTE0ZS00NDcxLWE2NTMtMjNkYjg4YzZiZDNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [View Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiNTRkYzQyMTUtOTE0ZS00NDcxLWE2NTMtMjNkYjg4YzZiZDNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Problem Statement:
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
